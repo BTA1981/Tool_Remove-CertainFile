@@ -9,6 +9,7 @@ Source:		http://blogs.technet.com/b/heyscriptingguy/archive/2006/10/23/how-can-i
 
 #Variable
 $UsersDir = 'd:\data\users'		#Variabele voor directory Users (met profielen en homedir data)
+$RemoveFile = '{308DD9FD-2C31-4AF6-B879-D417CE7B5EBF}.upf'
 
 #Script
 # -Force is used to get access to hidden files/folders
